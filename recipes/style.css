@@ -1,0 +1,12 @@
+body{
+    background-color: burlywood;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
